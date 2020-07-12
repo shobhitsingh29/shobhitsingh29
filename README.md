@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm [Shobhit!](https://shobhitsingh.ml) 
+### Hey 👋🏽, I'm [Shobhit!](http://shobhitsingh.ml) 
 
 <a href="https://twitter.com/shobhit_singh29">
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
