@@ -49,4 +49,4 @@ Hi, I'm shobhit singh, a Full Stack Developer 🚀 from India, currently, I'm a 
 
 
 
-![shobhit's github stats](https://github-readme-stats.vercel.app/api?username=shobhitsingh29&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919")
+![shobhit's github stats](https://github-readme-stats.vercel.app/api?username=shobhitsingh29&&show_icons=true&title_color=ffffff&icon_color=hotpink&text_color=daf7dc&bg_color=grey")
