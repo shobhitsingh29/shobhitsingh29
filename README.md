@@ -9,6 +9,15 @@
 <a href="https://leetcode.com/shobhitsingh29/">
   <img align="left" alt="shobhit's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
+<a href="https://medium.com/shobhitsingh29/">
+  <img align="left" alt="shobhit's medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
+<a href="https://uideveloper.tk">
+  <img align="left" alt="shobhit's game" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mdnwebdocs.svg" />
+</a>
+<a href="https://shobhitsingh.ml">
+  <img align="left" alt="shobhit's portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/matternet.svg" />
+</a>
 
 <br />
 <br />
@@ -40,4 +49,4 @@ Hi, I'm shobhit singh, a Full Stack Developer 🚀 from India, currently, I'm a 
 
 
 
-![shobhit's github stats](https://github-readme-stats.vercel.app/api?username=shobhitsingh29&show_icons=true&hide_border=true)
+![shobhit's github stats](https://github-readme-stats.vercel.app/api?username=shobhitsingh29&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919")
