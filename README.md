@@ -9,7 +9,7 @@
 <a href="https://leetcode.com/shobhitsingh29/">
   <img align="left" alt="shobhit's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
-<a href="https://medium.com/shobhitsingh29/">
+<a href="https://medium.com/@shobhitsingh29/">
   <img align="left" alt="shobhit's medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 <a href="https://uideveloper.tk">
