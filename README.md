@@ -60,7 +60,13 @@ Hi, I'm shobhit singh, a Full Stack Developer 🚀 from India, currently, I'm a 
 <!-- BLOG-POST-LIST:END -->
 
 📕 **Latest <img align="left" alt="shobhit's medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/stackoverflow.svg" /> Activity**
-<!-- STACKOVERFLOW:START --><!-- STACKOVERFLOW:END -->
+<!-- STACKOVERFLOW:START -->
+- [Comment by Shobhit Singh on Controlled component (react-mentions) onChange function only firing when user types, not when state is updated](https://stackoverflow.com/questions/61195979/controlled-component-react-mentions-onchange-function-only-firing-when-user-ty)
+- [Answer by Shobhit Singh for I have a carousel which is displaying 4 images at a time in desktop. I want only one image should display at a time in Mobile view](https://stackoverflow.com/questions/59646164/i-have-a-carousel-which-is-displaying-4-images-at-a-time-in-desktop-i-want-only/59646623#59646623)
+- [Answer by Shobhit Singh for How do i loop a function](https://stackoverflow.com/questions/53886803/how-do-i-loop-a-function/53886885#53886885)
+- [Answer by Shobhit Singh for How to dedupe pair of random numbers in JavaScript?](https://stackoverflow.com/questions/53886689/how-to-dedupe-pair-of-random-numbers-in-javascript/53886832#53886832)
+- [Answer by Shobhit Singh for How to check if number is even using recursive function in JavaScript](https://stackoverflow.com/questions/53882710/how-to-check-if-number-is-even-using-recursive-function-in-javascript/53882996#53882996)
+<!-- STACKOVERFLOW:END -->
 
 
 ![shobhit's github stats](https://github-readme-stats.vercel.app/api?username=shobhitsingh29&&show_icons=true&title_color=E9414E&icon_color=F36F21&text_color=E9414E&bg_color=ADC9FF")
