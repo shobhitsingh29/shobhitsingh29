@@ -47,6 +47,9 @@ Hi, I'm shobhit singh, a Full Stack Developer 🚀 from India, currently, I'm a 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
+📕 **Latest Blog Posts**
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 ![shobhit's github stats](https://github-readme-stats.vercel.app/api?username=shobhitsingh29&&show_icons=true&title_color=E9414E&icon_color=F36F21&text_color=E9414E&bg_color=ADC9FF")
