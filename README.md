@@ -47,7 +47,7 @@ Hi, I'm shobhit singh, a Full Stack Developer 🚀 from India, currently, I'm a 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-📕 **Latest Blog Posts**
+📕 **Latest <img align="left" alt="shobhit's medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" /> Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 - [Built My First Game in Javascript & it was so simple](https://medium.com/@shobhitsingh29/built-my-first-game-in-javascript-it-was-so-simple-1358780dde07?source=rss-ebeffa114c6e------2)
 - [Leet Code May challenge submissions in JavaScript](https://medium.com/camp-frontend/leet-code-may-challenge-submissions-in-javascript-60cf9c67a8fd?source=rss-ebeffa114c6e------2)
