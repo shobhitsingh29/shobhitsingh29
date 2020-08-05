@@ -19,7 +19,7 @@
   <img align="left" alt="shobhit's portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/matternet.svg" />
 </a>
 <a href="https://stackoverflow.com/users/5192713/shobhit-singh">
-  <img align="left" alt="shobhit's stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/stackoverflow.js" />
+  <img align="left" alt="shobhit's stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/stackoverflow.svg" />
 </a>
 
 <br />
@@ -59,7 +59,7 @@ Hi, I'm shobhit singh, a Full Stack Developer 🚀 from India, currently, I'm a 
 - [Understanding Js Data Types](https://medium.com/@shobhitsingh29/understanding-js-data-types-1ac8977ac8ae?source=rss-ebeffa114c6e------2)
 <!-- BLOG-POST-LIST:END -->
 
-📕 **Latest <img align="left" alt="shobhit's medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/stackoverflow.js" /> Activity**
+📕 **Latest <img align="left" alt="shobhit's medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/stackoverflow.svg" /> Activity**
 <!-- STACKOVERFLOW:START --><!-- STACKOVERFLOW:END -->
 
 
