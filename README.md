@@ -18,6 +18,9 @@
 <a href="https://shobhitsingh.ml">
   <img align="left" alt="shobhit's portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/matternet.svg" />
 </a>
+<a href="https://stackoverflow.com/users/5192713/shobhit-singh">
+  <img align="left" alt="shobhit's stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/stackoverflow.js" />
+</a>
 
 <br />
 <br />
@@ -55,6 +58,9 @@ Hi, I'm shobhit singh, a Full Stack Developer 🚀 from India, currently, I'm a 
 - [Getting started on CodeChef using JavaScript.](https://medium.com/@shobhitsingh29/getting-started-on-codechef-using-javascript-4529be3d8255?source=rss-ebeffa114c6e------2)
 - [Understanding Js Data Types](https://medium.com/@shobhitsingh29/understanding-js-data-types-1ac8977ac8ae?source=rss-ebeffa114c6e------2)
 <!-- BLOG-POST-LIST:END -->
+
+📕 **Latest <img align="left" alt="shobhit's medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/stackoverflow.js" /> Activity**
+<!-- STACKOVERFLOW:START --><!-- STACKOVERFLOW:END -->
 
 
 ![shobhit's github stats](https://github-readme-stats.vercel.app/api?username=shobhitsingh29&&show_icons=true&title_color=E9414E&icon_color=F36F21&text_color=E9414E&bg_color=ADC9FF")
