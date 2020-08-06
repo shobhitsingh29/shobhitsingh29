@@ -70,3 +70,7 @@ Hi, I'm shobhit singh, a Full Stack Developer 🚀 from India, currently, I'm a 
 
 
 ![shobhit's github stats](https://github-readme-stats.vercel.app/api?username=shobhitsingh29&&show_icons=true&title_color=E9414E&icon_color=F36F21&text_color=E9414E&bg_color=ADC9FF")
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/shobhitsingh29/count.svg" />
+</p>
