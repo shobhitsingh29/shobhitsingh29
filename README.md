@@ -52,11 +52,11 @@ Hi, I'm shobhit singh, a Full Stack Developer 🚀 from India, currently, I'm a 
 
 📕 **Latest <img align="left" alt="shobhit's medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" /> Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Learning D3 in 5 Minutes and Creating Bar & Funnel Chart VisualiZation](https://medium.com/@shobhitsingh29/learning-d3-in-5-minutes-and-creating-bar-funnel-chart-visualization-12b71142414e?source=rss-ebeffa114c6e------2)
 - [Built My First Game in Javascript & it was so simple](https://medium.com/@shobhitsingh29/built-my-first-game-in-javascript-it-was-so-simple-1358780dde07?source=rss-ebeffa114c6e------2)
 - [Leet Code May challenge submissions in JavaScript](https://medium.com/camp-frontend/leet-code-may-challenge-submissions-in-javascript-60cf9c67a8fd?source=rss-ebeffa114c6e------2)
 - [Loadable-Components SSR ✂️✨](https://medium.com/@shobhitsingh29/loadable-ssr-f8b501e92be8?source=rss-ebeffa114c6e------2)
 - [Getting started on CodeChef using JavaScript.](https://medium.com/@shobhitsingh29/getting-started-on-codechef-using-javascript-4529be3d8255?source=rss-ebeffa114c6e------2)
-- [Understanding Js Data Types](https://medium.com/@shobhitsingh29/understanding-js-data-types-1ac8977ac8ae?source=rss-ebeffa114c6e------2)
 <!-- BLOG-POST-LIST:END -->
 
 📕 **Latest <img align="left" alt="shobhit's medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/stackoverflow.svg" /> Activity**
