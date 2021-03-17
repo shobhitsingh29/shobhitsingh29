@@ -1,6 +1,6 @@
 ### Hey 👋🏽, I'm [Shobhit!](http://shobhitsingh.ml) 
 
-<a href="https://twitter.com/shobhit_singh29">
+<a href="https://twitter.com/29shobhitsingh">
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/shobhitsingh29/">
