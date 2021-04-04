@@ -33,7 +33,7 @@ Hi, I'm shobhit singh, a Full Stack Developer 🚀 from India, currently, I'm a 
 
 - 🌱 I’m currently learning GraphQL, D3.js and web components.
 - 👯 I’m looking to collaborate 🤝
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭
+- 🤔 I’m looking for help with Data Structures and Algorithms
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: shobhitsingh29@gmail.com
 - 📝[Resume](https://drive.google.com/file/d/1UAx-e5mmjOYFwEcNxNk66dSnmOCSL6kF/view?usp=sharing)
