@@ -25,7 +25,7 @@
 <br />
 <br />
 
-Hi, I'm shobhit singh, a Full Stack Developer 🚀 from India, currently, I'm a Team Member @Adobe 😎 . Beside's programming, I enjoy eating food and traveling.
+Hi, I'm shobhit singh, a Full Stack Developer 🚀 from India . Beside's programming, I enjoy eating food and traveling.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
