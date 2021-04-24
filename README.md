@@ -52,9 +52,9 @@ Hi, I'm shobhit singh, a Full Stack Developer 🚀 from India . Beside's program
 📕 **Latest <img align="left" alt="shobhit's medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" /> Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 - [Learning D3 in 5 Minutes and Creating Bar & Funnel Chart Visualizations](https://javascript.plainenglish.io/learning-d3-in-5-minutes-and-creating-bar-funnel-chart-visualization-12b71142414e?source=rss-ebeffa114c6e------2)
-- [Built My First Game in Javascript & it was so simple](https://medium.com/@shobhitsingh29/built-my-first-game-in-javascript-it-was-so-simple-1358780dde07?source=rss-ebeffa114c6e------2)
+- [Built My First Game in Javascript & it was so simple](https://shobhitsingh29.medium.com/built-my-first-game-in-javascript-it-was-so-simple-1358780dde07?source=rss-ebeffa114c6e------2)
 - [Leet Code May challenge submissions in JavaScript](https://medium.com/camp-frontend/leet-code-may-challenge-submissions-in-javascript-60cf9c67a8fd?source=rss-ebeffa114c6e------2)
-- [Code-splitting with Loadable-Components ✂️✨](https://medium.com/@shobhitsingh29/loadable-ssr-f8b501e92be8?source=rss-ebeffa114c6e------2)
+- [Code-splitting with Loadable-Components ✂️✨](https://shobhitsingh29.medium.com/loadable-ssr-f8b501e92be8?source=rss-ebeffa114c6e------2)
 <!-- BLOG-POST-LIST:END -->
 
 📕 **Latest <img align="left" alt="shobhit's medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/stackoverflow.svg" /> Activity**
