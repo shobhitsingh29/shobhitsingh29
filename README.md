@@ -51,6 +51,7 @@ Hi, I'm shobhit singh, a Full Stack Developer 🚀 from India . Beside's program
 
 📕 **Latest <img align="left" alt="shobhit's medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" /> Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Micro Frontend With ReactJS](https://medium.com/front-end-weekly/micro-frontend-with-reactjs-a0aae356b475?source=rss-ebeffa114c6e------2)
 - [Adding multilingual support (i18n) | Nextjs](https://medium.com/camp-frontend/adding-multilingual-support-i18n-nextjs-d86273e3bf7e?source=rss-ebeffa114c6e------2)
 - [Learning D3 in 5 Minutes and Creating Bar & Funnel Chart Visualizations](https://javascript.plainenglish.io/learning-d3-in-5-minutes-and-creating-bar-funnel-chart-visualization-12b71142414e?source=rss-ebeffa114c6e------2)
 - [Built My First Game in Javascript & it was so simple](https://shobhitsingh29.medium.com/built-my-first-game-in-javascript-it-was-so-simple-1358780dde07?source=rss-ebeffa114c6e------2)
