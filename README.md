@@ -51,11 +51,11 @@ Hi, I'm shobhit singh, a Full Stack Developer 🚀 from India . Beside's program
 
 📕 **Latest <img align="left" alt="shobhit's medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" /> Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [10 Custom React Hooks You Should Know](https://shobhitsingh29.medium.com/10-custom-react-hooks-you-should-know-b11f1e724d30?source=rss-ebeffa114c6e------2)
 - [SEO (Search Engine Optimization)](https://shobhitsingh29.medium.com/seo-search-engine-optimization-772d3b61dc0c?source=rss-ebeffa114c6e------2)
 - [How to Build a Micro Frontend with React](https://javascript.plainenglish.io/micro-frontend-with-reactjs-a0aae356b475?source=rss-ebeffa114c6e------2)
 - [Adding multilingual support (i18n) | Nextjs](https://medium.com/camp-frontend/adding-multilingual-support-i18n-nextjs-d86273e3bf7e?source=rss-ebeffa114c6e------2)
 - [Intersection observers, lazy-loading, thumb image placeholders.](https://shobhitsingh29.medium.com/intersection-observers-lazy-loading-thumb-image-placeholders-a6d0338d2aa3?source=rss-ebeffa114c6e------2)
-- [Learning D3 in 5 Minutes and Creating Bar & Funnel Chart Visualizations](https://javascript.plainenglish.io/learning-d3-in-5-minutes-and-creating-bar-funnel-chart-visualization-12b71142414e?source=rss-ebeffa114c6e------2)
 <!-- BLOG-POST-LIST:END -->
 
 📕 **Latest <img align="left" alt="shobhit's medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/stackoverflow.svg" /> Activity**
