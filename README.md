@@ -51,7 +51,7 @@ Hi, I'm shobhit singh, a Full Stack Developer 🚀 from India . Beside's program
 
 📕 **Latest <img align="left" alt="shobhit's medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" /> Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [15 react-use package custom hooks to make your component lightweight.](https://medium.com/front-end-weekly/15-react-use-package-custom-hooks-to-make-your-component-lightweight-933750cc0de?source=rss-ebeffa114c6e------2)
+- [15 react-use package custom hooks to make your component lightweight.](https://betterprogramming.pub/15-react-use-package-custom-hooks-to-make-your-component-lightweight-933750cc0de?source=rss-ebeffa114c6e------2)
 - [5 SEO Optimization Steps For Your Blog](https://medium.com/codex/5-seo-optimisation-steps-for-your-blog-19b7ea2929d1?source=rss-ebeffa114c6e------2)
 - [10 Custom React Hooks You Should Know](https://medium.com/codex/10-custom-react-hooks-you-should-know-b11f1e724d30?source=rss-ebeffa114c6e------2)
 - [SEO (Search Engine Optimization)](https://shobhitsingh29.medium.com/seo-search-engine-optimization-772d3b61dc0c?source=rss-ebeffa114c6e------2)
