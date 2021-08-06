@@ -51,11 +51,11 @@ Hi, I'm shobhit singh, a Full Stack Developer 🚀 from India . Beside's program
 
 📕 **Latest <img align="left" alt="shobhit's medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" /> Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [The Plan for React 18](https://shobhitsingh29.medium.com/the-plan-for-react-18-d581cf6afc84?source=rss-ebeffa114c6e------2)
 - [Managing Your Cluster Logs in an Easy way in Ansible](https://shobhitsingh29.medium.com/managing-your-cluster-logs-in-an-easy-way-in-ansible-667889b723fe?source=rss-ebeffa114c6e------2)
 - [15 react-use Package Custom Hooks to Make your Component Lightweight](https://javascript.plainenglish.io/15-react-use-package-custom-hooks-to-make-your-component-lightweight-933750cc0de?source=rss-ebeffa114c6e------2)
 - [5 SEO Optimization Steps For Your Blog](https://medium.com/codex/5-seo-optimisation-steps-for-your-blog-19b7ea2929d1?source=rss-ebeffa114c6e------2)
 - [10 Custom React Hooks You Should Know](https://medium.com/codex/10-custom-react-hooks-you-should-know-b11f1e724d30?source=rss-ebeffa114c6e------2)
-- [SEO (Search Engine Optimization)](https://shobhitsingh29.medium.com/seo-search-engine-optimization-772d3b61dc0c?source=rss-ebeffa114c6e------2)
 <!-- BLOG-POST-LIST:END -->
 
 📕 **Latest <img align="left" alt="shobhit's medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/stackoverflow.svg" /> Activity**
