@@ -1,6 +1,6 @@
 ### Hey 👋🏽, I'm [Shobhit!](http://shobhitsingh.ml) 
 
-<a href="https://twitter.com/29shobhitsingh">
+<!-- <a href="https://twitter.com/29shobhitsingh">
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/shobhitsingh29/">
@@ -20,7 +20,7 @@
 </a>
 <a href="https://stackoverflow.com/users/5192713/shobhit-singh">
   <img align="left" alt="shobhit's stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/stackoverflow.svg" />
-</a>
+</a> -->
 
 <br />
 <br />
