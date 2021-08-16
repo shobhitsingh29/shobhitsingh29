@@ -35,8 +35,6 @@ Hi, I'm shobhit singh, a Full Stack Developer 🚀 from India . Beside's program
 - 👯 I’m looking to collaborate 🤝
 - 🤔 I’m looking for help with Data Structures and Algorithms
 - 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: shobhitsingh29@gmail.com
-- 📝[Resume](https://drive.google.com/file/d/1UAx-e5mmjOYFwEcNxNk66dSnmOCSL6kF/view?usp=sharing)
 
 **Languages and Tools:**  
 
