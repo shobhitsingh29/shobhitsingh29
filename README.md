@@ -49,7 +49,7 @@ Hi, I'm shobhit singh, a Full Stack Developer 🚀 from India . Beside's program
 
 📕 **Latest <img align="left" alt="shobhit's medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" /> Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [Best Tips from a Senior Programmer](https://shobhitsingh29.medium.com/best-tips-from-a-senior-programmer-1ad47d37edf2?source=rss-ebeffa114c6e------2)
+- [Best Tips from a Senior Programmer](https://medium.com/front-end-weekly/best-tips-from-a-senior-programmer-1ad47d37edf2?source=rss-ebeffa114c6e------2)
 - [VS Code automation tips that frontend developers should follow](https://shobhitsingh29.medium.com/vs-code-automation-tips-that-frontend-developers-should-follow-327c1f158ef4?source=rss-ebeffa114c6e------2)
 - [The Plan for React 18](https://shobhitsingh29.medium.com/the-plan-for-react-18-d581cf6afc84?source=rss-ebeffa114c6e------2)
 - [Managing Your Cluster Logs in an Easy way in Ansible](https://shobhitsingh29.medium.com/managing-your-cluster-logs-in-an-easy-way-in-ansible-667889b723fe?source=rss-ebeffa114c6e------2)
