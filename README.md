@@ -49,11 +49,11 @@ Hi, I'm shobhit singh, a Full Stack Developer 🚀 from India . Beside's program
 
 📕 **Latest <img align="left" alt="shobhit's medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" /> Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [7 Tips To Improve Site Performance](https://medium.com/codex/7-tips-to-improve-site-perf-42f59a83b6d7?source=rss-ebeffa114c6e------2)
 - [Adding multilingual support (i18n) Nextjs](https://medium.com/codex/adding-multilingual-support-i18n-nextjs-c97b22bde4f3?source=rss-ebeffa114c6e------2)
 - [Best 9 Tips from a Senior Programmer](https://medium.com/codex/best-9-tips-from-a-senior-programmer-8fda6d770e73?source=rss-ebeffa114c6e------2)
 - [Best Tips from a Senior Programmer](https://javascript.plainenglish.io/best-tips-from-a-senior-programmer-1ad47d37edf2?source=rss-ebeffa114c6e------2)
 - [VS Code automation tips that frontend developers should follow](https://shobhitsingh29.medium.com/vs-code-automation-tips-that-frontend-developers-should-follow-327c1f158ef4?source=rss-ebeffa114c6e------2)
-- [The Plan for React 18](https://shobhitsingh29.medium.com/the-plan-for-react-18-d581cf6afc84?source=rss-ebeffa114c6e------2)
 <!-- BLOG-POST-LIST:END -->
 
 📕 **Latest <img align="left" alt="shobhit's medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/stackoverflow.svg" /> Activity**
