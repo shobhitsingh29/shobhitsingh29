@@ -52,7 +52,7 @@ Hi, I'm shobhit singh, a Full Stack Developer 🚀 from India . Beside's program
 - [React rendering brutaly simplified](https://medium.com/geekculture/react-rendering-brutaly-simplified-c52c231a5df9?source=rss-ebeffa114c6e------2)
 - [7 Projects you can build in React.js](https://medium.com/codex/7-projects-you-can-build-in-react-js-1843e90c62fc?source=rss-ebeffa114c6e------2)
 - [7 Tips To Improve Site Performance](https://medium.com/codex/7-tips-to-improve-site-perf-42f59a83b6d7?source=rss-ebeffa114c6e------2)
-- [Adding multilingual support (i18n) Nextjs](https://medium.com/codex/adding-multilingual-support-i18n-nextjs-c97b22bde4f3?source=rss-ebeffa114c6e------2)
+- [Adding multilingual support &lpar;i18n&rpar; Nextjs](https://medium.com/codex/adding-multilingual-support-i18n-nextjs-c97b22bde4f3?source=rss-ebeffa114c6e------2)
 - [Best 9 Tips from a Senior Programmer](https://medium.com/codex/best-9-tips-from-a-senior-programmer-8fda6d770e73?source=rss-ebeffa114c6e------2)
 <!-- BLOG-POST-LIST:END -->
 
