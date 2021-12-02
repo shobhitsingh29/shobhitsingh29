@@ -49,8 +49,8 @@ Hi, I'm shobhit singh, a Full Stack Developer 🚀 from India . Beside's program
 
 📕 **Latest <img align="left" alt="shobhit's medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" /> Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [React’s Curried onClick handlers](https://shobhitsingh29.medium.com/reacts-curried-onclick-handlers-7271cc2bbcc0?source=rss-ebeffa114c6e------2)
-- [10 best practices every react developer should follow](https://shobhitsingh29.medium.com/10-best-practices-every-react-developer-should-follow-a7191cd57ca4?source=rss-ebeffa114c6e------2)
+- [React’s Curried onClick handlers](https://betterprogramming.pub/reacts-curried-onclick-handlers-7271cc2bbcc0?source=rss-ebeffa114c6e------2)
+- [10 best practices every react developer should follow](https://medium.com/codex/10-best-practices-every-react-developer-should-follow-a7191cd57ca4?source=rss-ebeffa114c6e------2)
 - [React rendering brutaly simplified](https://medium.com/geekculture/react-rendering-brutaly-simplified-c52c231a5df9?source=rss-ebeffa114c6e------2)
 - [7 Projects you can build in React.js](https://medium.com/codex/7-projects-you-can-build-in-react-js-1843e90c62fc?source=rss-ebeffa114c6e------2)
 - [7 Tips To Improve Site Performance](https://medium.com/codex/7-tips-to-improve-site-perf-42f59a83b6d7?source=rss-ebeffa114c6e------2)
