@@ -49,11 +49,11 @@ Hi, I'm shobhit singh, a Full Stack Developer 🚀 from India . Beside's program
 
 📕 **Latest <img align="left" alt="shobhit's medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" /> Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [The Future of Web Development with React](https://medium.com/geekculture/the-future-of-web-development-with-react-f2774f3b0c6f?source=rss-ebeffa114c6e------2)
 - [Update alert! Typescript](https://medium.com/geekculture/update-alert-typescript-f6da72ff156?source=rss-ebeffa114c6e------2)
 - [React’s Curried onClick handlers](https://shobhitsingh29.medium.com/reacts-curried-onclick-handlers-7271cc2bbcc0?source=rss-ebeffa114c6e------2)
 - [10 best practices every react developer should follow](https://medium.com/codex/10-best-practices-every-react-developer-should-follow-a7191cd57ca4?source=rss-ebeffa114c6e------2)
 - [React rendering brutaly simplified](https://medium.com/geekculture/react-rendering-brutaly-simplified-c52c231a5df9?source=rss-ebeffa114c6e------2)
-- [7 Projects you can build in React.js](https://medium.com/codex/7-projects-you-can-build-in-react-js-1843e90c62fc?source=rss-ebeffa114c6e------2)
 <!-- BLOG-POST-LIST:END -->
 
 📕 **Latest <img align="left" alt="shobhit's medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/stackoverflow.svg" /> Activity**
