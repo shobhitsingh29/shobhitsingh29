@@ -49,7 +49,7 @@ Hi, I'm shobhit singh, a Full Stack Developer 🚀 from India . Beside's program
 
 📕 **Latest <img align="left" alt="shobhit's medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" /> Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [7 JS clean coding tips every developer should know](https://betterprogramming.pub/7-js-clean-coding-tips-every-developer-should-know-6fe7beffae6?source=rss-ebeffa114c6e------2)
+- [7 JS clean coding tips every developer should know](https://shobhitsingh29.medium.com/7-js-clean-coding-tips-every-developer-should-know-6fe7beffae6?source=rss-ebeffa114c6e------2)
 - [require&lpar;&rpar; vs import&lpar;&rpar;: Important features you should be aware of!](https://medium.com/codex/require-vs-import-important-features-you-should-be-aware-of-d6888dc23723?source=rss-ebeffa114c6e------2)
 - [The Future of Web Development with React](https://medium.com/geekculture/the-future-of-web-development-with-react-f2774f3b0c6f?source=rss-ebeffa114c6e------2)
 - [Update alert! Typescript](https://medium.com/geekculture/update-alert-typescript-f6da72ff156?source=rss-ebeffa114c6e------2)
