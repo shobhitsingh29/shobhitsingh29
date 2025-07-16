@@ -23,7 +23,8 @@
 </a> -->
 <br />
 
-Hi, I'm shobhit singh, a Full Stack Developer 🚀 from India Currently in Germany 🇩🇪 . Beside's programming, I enjoy eating food and traveling.
+Hi, I'm shobhit singh, a Full Stack Developer 🚀 from India , currently in Germany 🇩🇪 .
+Beside's programming, I enjoy eating food and traveling.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
