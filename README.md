@@ -21,18 +21,13 @@
 <a href="https://stackoverflow.com/users/5192713/shobhit-singh">
   <img align="left" alt="shobhit's stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/stackoverflow.svg" />
 </a> -->
-
-<br />
 <br />
 
 Hi, I'm shobhit singh, a Full Stack Developer 🚀 from India . Beside's programming, I enjoy eating food and traveling.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
-**Talking about Personal Stuffs:**
 
-- 👯 I’m looking to collaborate 🤝
-- 💬 Ask me about anything, I am happy to help
 
 **Languages and Tools:**  
 
